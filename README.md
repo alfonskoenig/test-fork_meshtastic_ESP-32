@@ -1,3 +1,14 @@
+# My Aim
+
+To combine a ESP32S-NodeMCU with a SX1276-Module I try to modify the program.
+And within I am learning PlatformIO. As far as I find out how to update the changes to github, you will be able to share my "work".
+
+## Results
+
+### 27th march 2026
+Unfortunately I failed. Something with the Ram (DRAM Segment, and .dram0.bss will not fit in region...)
+
+
 # Custom Meshtastic Port: ESP32 + SX1278 LoRa Module
 
 Meshtastic is an open source, off-grid, decentralized mesh communication platform built on affordable, low-power hardware.
